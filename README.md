@@ -30,7 +30,8 @@ The following schematic illustrates the hardware setup required:
 - **Two Push buttons** for player input (to starting game).
 - **Resistors and wiring** for button debouncing and UART connections.
 
-![Schematic Diagram made on ThinkerCad](https://github.com/user-attachments/assets/bea13f8c-3858-4046-aae7-a9ba5394dd1f)
+![Schematic Diagram made on ThinkerCad](https://github.com/user-attachments/assets/95b95a2e-38d6-4f05-b9dc-e83e6c0cd0e5)
+
 
 ---
 
